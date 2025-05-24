@@ -14,7 +14,7 @@ git clone https://github.com/xiaorouji/openwrt-passwall2 --depth=1 package/passw
 git clone https://github.com/ophub/luci-app-amlogic --depth=1 package/amlogic
 git clone https://github.com/gdy666/luci-app-lucky.git package/lucky
 git clone https://github.com/sbwml/luci-app-alist package/alist
-
+git clone https://github.com/nikkinikki-org/OpenWrt-nikki package/nikki
 
 rm -rf feeds/packages/net/v2ray-geodata
 git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
